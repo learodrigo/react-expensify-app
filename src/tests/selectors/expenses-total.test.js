@@ -11,7 +11,7 @@ test('Should correctly add up a single expense', () => {
   expect(res).toBe(195);
 });
 
-test('Should correctly add up multiple expense', () => {
+test('Should correctly add up multiple expenses', () => {
   const res = selectExpensesTotal(expenses);
   expect(res).toBe(114195);
 });
