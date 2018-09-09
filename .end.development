@@ -1,6 +1,0 @@
-FIREBASE_API_KEY=AIzaSyBDq2Cu8Bk7Z6N94W8jGBSc8yezl0eUqo4
-FIREBASE_AUTH_DOMAIN=react-expensify-app-da24c.firebaseapp.com
-FIREBASE_DATABASE_URL=https://react-expensify-app-da24c.firebaseio.com
-FIREBASE_PROJECT_ID=react-expensify-app-da24c
-FIREBASE_STORAGE_BUCKET=react-expensify-app-da24c.appspot.com
-FIREBASE_MESSAGING_SENDER_ID=1073382484437
