@@ -4,3 +4,4 @@ public/dist/
 .env.development
 .env.test
 .envs.test
+possible-changes.txt
